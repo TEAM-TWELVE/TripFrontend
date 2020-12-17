@@ -1,0 +1,76 @@
+{
+    "hotelDTOS": [
+        {
+            "name": "1Hotel Central Park",
+            "address": "1414 6th Ave, New York, NY 10019, USA",
+            "stars": 5,
+            "foodPlaces": [
+                {
+                    "name": "The Lowell Hotel",
+                    "address": "28 East 63rd Street, New York",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Novotel New York Times Square",
+                    "address": "226 West 52nd Street, New York",
+                    "rating": 4.4
+                },
+                {
+                    "name": "Sofitel New York",
+                    "address": "45 West 44th Street, New York",
+                    "rating": 4.5
+                }
+            ]
+        },
+        {
+            "name": "Warwick New York",
+            "address": "65 W 54th St, New York, NY 10019, USA",
+            "stars": 3,
+            "foodPlaces": [
+                {
+                    "name": "Novotel New York Times Square",
+                    "address": "226 West 52nd Street, New York",
+                    "rating": 4.4
+                },
+                {
+                    "name": "Sofitel New York",
+                    "address": "45 West 44th Street, New York",
+                    "rating": 4.5
+                },
+                {
+                    "name": "The Lowell Hotel",
+                    "address": "28 East 63rd Street, New York",
+                    "rating": 4.6
+                }
+            ]
+        },
+        {
+            "name": "West Side YMCA",
+            "address": "5 W 63rd St., New York, NY 10023, USA",
+            "stars": 3,
+            "foodPlaces": [
+                {
+                    "name": "Novotel New York Times Square",
+                    "address": "226 West 52nd Street, New York",
+                    "rating": 4.4
+                },
+                {
+                    "name": "The Lowell Hotel",
+                    "address": "28 East 63rd Street, New York",
+                    "rating": 4.6
+                },
+                {
+                    "name": "The Mark Hotel",
+                    "address": "25 East 77th Street, New York",
+                    "rating": 4.6
+                }
+            ]
+        }
+    ],
+    "topCities": [
+        {
+            "name": "\"New York\"",
+            "noOfSearches": 1
+        }
+    ]
+}
